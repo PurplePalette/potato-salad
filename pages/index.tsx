@@ -7,9 +7,9 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>PotatoSalad|Home</title>
+        <title>PotatoSalad | Home</title>
         <meta name="description" content="Next Generation PJSekai Fanmade Chart Server and SNS" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/PotatoSalad.ico" />
       </Head>
 
       <main className={styles.main}>
@@ -25,7 +25,8 @@ const Home: NextPage = () => {
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Post &rarr;</h2>
-            <p>Post your charts and results</p>
+            <p>Post your charts and results!{" "}</p>
+
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
@@ -61,9 +62,8 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sponcered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/PotatoSalad.png" alt="PurplePalette Logo" width={256} height={144} />
           </span>
         </a>
       </footer>
