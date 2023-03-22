@@ -1,0 +1,90 @@
+{
+    "title": "PotatoSalad",
+        "banner": {
+            "type": "ServerBanner",
+            "url": "https://media.discordapp.net/attachments/905790930316046368/1055761708897030194/46_20221223025551.png"
+        },
+        "levels": {
+            "items": [
+                {
+                    "name": "PotatoSalad",
+                    "version": 1,
+                    "rating": 0,
+                    "engine": {
+                        "name": "PotatoSalad",
+                        "version": 4,
+                        "title": "PotatoSalad",
+                        "subtitle": "",
+                        "author": "PotatoSalad"
+                    },
+                    "title": "PotatoSaladへようこそ",
+                    "artists": "譜面は・・・からどうぞ",
+                    "author": "PotatoSalad",
+                    "cover": {
+                        "type": "LevelCover",
+                        "url": "https://illust8.com/wp-content/uploads/2018/09/shinshun_pop_text_illust_1294.png"
+                    },
+                    "bgm": {
+                        "type": "LevelBgm",
+                        "url": ""
+                    },
+                    "data": {
+                        "type": "LevelData",
+                        "url": ""
+                    }
+                }
+            ],
+            "search": {
+                "options": [
+                    {
+                        "name": "#KEYWORDS",
+                        "placeholder": "キーワード",
+                        "query": "#KEYWORDS",
+                        "type": "text"
+                    },
+                    {
+                        "name": "#CHART_ID",
+                        "placeholder": "譜面ID",
+                        "query": "#CHART_ID",
+                        "type": "text"
+                    },
+                    {
+                        "name": "#KEY",
+                        "placeholder": "<Key>",
+                        "query": "#KEY",
+                        "type": "text"
+                    },
+                    {
+                        "name": "#PATH",
+                        "placeholder": "パス",
+                        "query": "#PATH",
+                        "type": "text"
+
+                    }    
+                ]
+            }
+        },
+    
+        "skins": {
+            "items": [],
+            "search": {}
+        },
+    
+        "backgrounds": {
+            "items": [],
+            "search": {}
+
+        },
+        "effects": {
+            "items": [],
+            "search": {}
+        },
+        "particles": {
+            "items": [],
+            "search": {}
+        },
+        "engines": {
+            "items": [],
+            "search": {}
+        }
+    }
